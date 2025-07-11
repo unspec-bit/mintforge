@@ -1,0 +1,31 @@
+{
+  "name": "mintforge-js",
+  "version": "0.0.0",
+  "description": "JavaScript code to drive off-chain logic for MintForge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unspec-bit/mintforge.git"
+  },
+  "keywords": [
+    "cardano",
+    "nft",
+    "forge",
+    "mint",
+    "exchange",
+    "hackaton"
+  ],
+  "author": "Unspecified-Bit Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/unspec-bit/mintforge/issues"
+  },
+  "homepage": "https://github.com/unspec-bit/mintforge#readme",
+  "dependencies": {
+      "@meshsdk/core": "1.9.0-beta.62",
+      "tsx": "4.20.3"
+  }
+}
